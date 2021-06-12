@@ -6,6 +6,11 @@ keywords:
         kaggle: 3
         resnet: 3
         anomaly detection: 1
+        storage: 2
+        memory: 2
+        stereoscopic: 4
+        3D: 5
+        holography: 6
 
 # 通知の閾値
 score_threshold: 0
