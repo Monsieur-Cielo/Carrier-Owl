@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:physics.optics OR eess.IV'
+subject: 'cat:physics.optics* OR eess.IV*'
 
 
 # 検索キーワード
