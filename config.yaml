@@ -5,8 +5,6 @@ subject: 'cat:physics.optics* OR eess.IV*'
 # 検索キーワード
 keywords:
         kaggle: 3
-        resnet: 3
-        anomaly detection: 1
         storage: 2
         memory: 2
         stereoscopic: 4
